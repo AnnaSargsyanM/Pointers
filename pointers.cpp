@@ -1,16 +1,3 @@
-//****************************************************************************************************
-//     File:               Assignment4.cpp
-// 
-//     Student:            Anna Sargsyan
-// 
-//     Assignment:         Program #4
-// 
-//     Course Name:        Programming II
-// 
-//     Course Number:      COSC 1560-01
-// 
-//     Due:                September 25, 2023
-//
 //     This program displays the values and memory addresses in the array: 
 //     firstly using the array, then pointer. It also asks the user to 
 //     input 3 integers withing the indices of array and displays the values
